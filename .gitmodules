@@ -1,3 +1,6 @@
 [submodule "roles/prometheus_node_exporter"]
 	path = roles/prometheus_node_exporter
 	url = https://github.com/johanneskastl/ansible-role-prometheus_node_exporter.git
+[submodule "roles/prometheus_server"]
+	path = roles/prometheus_server
+	url = https://github.com/johanneskastl/ansible-role-prometheus_server.git
