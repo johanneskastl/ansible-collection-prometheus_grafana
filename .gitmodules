@@ -4,3 +4,6 @@
 [submodule "roles/prometheus_server"]
 	path = roles/prometheus_server
 	url = https://github.com/johanneskastl/ansible-role-prometheus_server.git
+[submodule "roles/grafana_server"]
+	path = roles/grafana_server
+	url = https://github.com/johanneskastl/ansible-role-grafana_server.git
