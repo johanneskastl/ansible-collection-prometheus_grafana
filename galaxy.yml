@@ -18,7 +18,6 @@ readme: README.md
 authors:
 - Johannes Kastl <kastl@b1-systems.de>
 
-
 ### OPTIONAL but strongly recommended
 # A short summary description of the collection
 description: Roles to install prometheus, grafana or prometheus node-exporter
