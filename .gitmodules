@@ -7,3 +7,6 @@
 [submodule "roles/grafana_server"]
 	path = roles/grafana_server
 	url = https://github.com/johanneskastl/ansible-role-grafana_server.git
+[submodule "helpers"]
+	path = helpers
+	url = https://github.com/johanneskastl/helpers.git
